@@ -1,1 +1,20 @@
-a
+{
+    "homepage": "https://minecraft.curseforge.com/projects/jj-coin",
+    "promos": {       
+        "1.12-latest": "1.0.0",
+        "1.12-recommended": "1.0.0",
+        "1.12.1-latest": "1.0.0",
+        "1.12.1-recommended": "1.0.0",
+        "1.12.2-latest": "1.0.0",
+        "1.12.2-recommended": "1.0.0"
+    }
+    "1.12": {
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-coin/files/2501976\n"        
+    },
+    "1.12.1": {
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-coin/files/2501976\n"   
+    },
+    "1.12.2": {
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-coin/files/2501976\n"       
+    }
+}
